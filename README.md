@@ -8,7 +8,7 @@ Open source alternatives: Phasing out Windows and Big Tech
 * [NAPS2 - Not Another PDF Scanner](https://www.naps2.com)
 * MicroSoft office: [Libre Office](https://nl.libreoffice.org/), [OnlyOffice](https://www.onlyoffice.com)
 * WhatsApp: [Signal](https://signal.org/), [Session](https://getsession.org)
-* E-mail: [ThunderBird](https://www.thunderbird.net/nl/), [ProtonMail](https://proton.me/mail)
+* E-mail: [ThunderBird](https://www.thunderbird.net/nl/), [ProtonMail](https://proton.me/mail), [Skiff E-mail](https://skiff.com)
 
 
 
